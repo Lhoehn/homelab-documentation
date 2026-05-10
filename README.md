@@ -4,9 +4,9 @@ Documentation overview of a home server building project and skills learned thro
 ## Hardware Specs
 * **System:** Dell Optiplex 3010
 * **OS:** Ubuntu Server
-**Processor:** Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
-**Memory:** 16GB DDR3 1600MHz
-**Storage:** 120GB Kingston SSD
+* **Processor:** Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+* **Memory:** 16GB DDR3 1600MHz
+* **Storage:** 120GB Kingston SSD
 
 ## Goals
 - Learn Linux environment and administration
